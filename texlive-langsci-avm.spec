@@ -1,6 +1,6 @@
 Name:		texlive-langsci-avm
 Version:	55846
-Release:	1
+Release:	2
 Summary:	Attribute-value matrices and feature structures for use in linguistics
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/langsci-avm
