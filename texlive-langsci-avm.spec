@@ -3,7 +3,7 @@ Version:	66016
 Release:	1
 Summary:	Attribute-value matrices and feature structures for use in linguistics
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/langsci-avm
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/langsci-avm
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/langsci-avm.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/langsci-avm.doc.r%{version}.tar.xz
